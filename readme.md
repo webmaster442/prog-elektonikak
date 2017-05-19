@@ -1,3 +1,7 @@
+![alt text](borito.png "Programozható Elektronikák")
+
+https://www.webmaster442.hu/letoltheto-irasok/programozhato-elektronikak/
+
 Programozható Elektronikák kód melléklet
 =====================
 
