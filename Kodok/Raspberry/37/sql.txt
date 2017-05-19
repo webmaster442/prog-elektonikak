@@ -1,0 +1,11 @@
+CREATE TABLE `Naplo` (
+  `ID` int(10) UNSIGNED NOT NULL,
+  `tipus` int(11) NOT NULL,
+  `leiras` text COLLATE utf8mb4_unicode_ci NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+ALTER TABLE `Naplo`
+  ADD PRIMARY KEY (`ID`);
+
+ALTER TABLE `Naplo`
+  MODIFY `ID` int(10) UNSIGNED NOT NULL AUTO_INCREMENT;
