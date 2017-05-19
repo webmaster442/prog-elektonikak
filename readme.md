@@ -9,7 +9,7 @@ Ezen repository a Programozható elektronikák könyv letölthetõ melléklete. Itt a 
 
 A melléklet letölthetõ az oldalt megtalálható "Download ZIP" menüponttal egyszerûen ZIP formátumban.
 
-#Jogi információk
+# Jogi információk
 
 A forráskódra a BSD Licenc megkötései vonatkoznak. A licenc szövege (a fordítás csak tájékoztató jellegû, és jogi szempontból csakis az angol tekinthetõ mérvadónak):
 
@@ -24,7 +24,7 @@ A forrás és bináris formában való újraterjesztés és használat, módosításokkal va
 
 EZT A SZOFTVERT Ruzsinszki Gábor "AHOGY VAN" SZOLGÁLTATJA ÉS MINDEN NYÍLT VAGY BURKOLT GARANCIAJOGOT VISSZAUTASÍT VELE KAPCSOLATBAN - BELEÉRTVE DE NEM KIZÁRÓLAGOSAN KORLÁTOZVA AZ ELADHATÓSÁGRA, VAGY EGY ADOTT CÉLRA VALÓ ALKALMAZHATÓSÁGRA VONATKOZÓ GARANCIÁT. Ruzsinszki Gábor NEM VONHATÓ SEMMILYEN SZINTÛ FELELÕSSÉGRE -, MELYET AKÁR SZERZÕDÉSBEN RENDEZETT, VAGY SZERZÕDÉSEN KÍVÜLI FELELÕSSÉGVISZONY ALAPJÁN ÁLLAPÍTANÁNAK MEG (BELEÉRTVE A HANYAGSÁG VAGY MÁS MIATT KIALAKULÓ VISZONYT IS), SEMMILYEN A SZOFTVER HASZNÁLATÁBÓL EREDÕ ESEMÉNY KAPCSÁN MELY KÖZVETLEN, KÖZVETETT, VÉLETLENSZERÛ, KÜLÖNLEGES, PÉLDÁTLAN VAGY SZÜKSÉGSZERÛEN BEKÖVETKEZÕ KÁRHOZ VEZET (BELEÉRTVE A KÁROK KÖZÉ DE NEM KIZÁRÓLAGOSAN KORLÁTOZVA AZT A HELYETTESÍTÕ TERMÉKEK VAGY SZOLGÁLTATÁSOK BESZERZÉSÉRE, ÜZEMKIESÉSRE, ADATVESZTÉSRE, ELMARADT HASZONRA, VAGY ÜZLETMENET MEGSZAKADÁSÁRA) MÉG AKKOR SEM HA A KÁROSODÁS LEHETÕSÉGE ELÕRE LÁTHATÓ VOLT.
 
-#Mappák & Fájlok listája:
+# Mappák & Fájlok listája:
 
 - Kodok
   A Különbözõ projektek forráskódjai.
@@ -33,6 +33,6 @@ EZT A SZOFTVERT Ruzsinszki Gábor "AHOGY VAN" SZOLGÁLTATJA ÉS MINDEN NYÍLT VAGY B
 - Eagle Konyvtar
   A saját Eagle könyvtáram, néhány olyan elemmel, ami nincs meg más könyvtárakban.
 
-#Arduino könyvtárak
+# Arduino könyvtárak
 
 A könyvben számos Arduino könyvtár szerepel. Ezek különbözõ címekrõl tölthetõek le. A saját munkám megkönnyítése érdekében létrehoztam egy GitHub repository-t a könyvtárak könnyû beszerzésére. Ez a repository a https://github.com/webmaster442/ArduinoExtensions címen lelhetõ fel.
