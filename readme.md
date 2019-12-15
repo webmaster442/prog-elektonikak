@@ -1,4 +1,4 @@
-![alt text](borito.png "Programozható Elektronikák")
+![alt text](borito2019.jpg "Programozható Elektronikák")
 
 https://www.webmaster442.hu/letoltheto-irasok/programozhato-elektronikak/
 
